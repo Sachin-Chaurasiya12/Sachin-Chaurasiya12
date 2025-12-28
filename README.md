@@ -1,4 +1,4 @@
-# 💫 Hay its Sachin:
+# 💫 Hay! its Sachin:
 I am currently a Computer Science student <br>Aming to work as a java software engineer<br>i am specialized with java development but i can also <br>use languages like javascript and python<br>i can use version control tools like git github <br>and dbms like mysql<br>
 
 
