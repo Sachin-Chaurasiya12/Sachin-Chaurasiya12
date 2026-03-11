@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a Computer Science student ,Aming to work as a java software engineer,i am specialized with java development but i can also <br>use languages like javascript and python<br>i can use version control tools like git github <br>and dbms like mysql<br>
+I am currently a Computer Science student ,Aming to work as a java software engineer,i am specialized with java development but i can also use languages like javascript and python,i can use version control tools like git github <br>and dbms like mysql<br>
 
 
 ## 🌐 Socials:
